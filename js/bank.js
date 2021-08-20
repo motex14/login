@@ -23,7 +23,10 @@ else if(useremail=='choikko@gmail.com' &&userPassword=='248052'){
     window.location.href='choikko.html'
 }
     
-    
+ else{
+
+    window.location.href='error.html';
+ }   
         
     })
 
